@@ -100,3 +100,4 @@ logs/
 *.bak
 *.tmp
 backups/gz/
+libs/common/utils/my-nvim/
