@@ -24,6 +24,7 @@ documents/
 ├── 工具集.md                     # 开发工具推荐
 ├── auggie-mcp配置文档.md         # Augment 上下文引擎配置（2.7KB）
 ├── tmux快捷键大全.md             # tmux 终端复用快捷键（1.1KB）
+├── LazyVim快捷键大全.md          # LazyVim 快捷键大全（8.0KB）
 ├── 关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md  # FRP 内网穿透（10.6KB）
 │
 ├── # === 提示词与 AI ===
@@ -59,6 +60,7 @@ documents/
 |------|------|------|
 | `auggie-mcp配置文档.md` | 2.7KB | Augment 上下文引擎 MCP 配置 |
 | `tmux快捷键大全.md` | 1.1KB | tmux 终端复用快捷键速查 |
+| `LazyVim快捷键大全.md` | 8.0KB | LazyVim 快捷键大全 |
 | `关于手机ssh...frp实现的方法.md` | 10.6KB | FRP 内网穿透，手机 SSH 连接本地电脑 |
 | `工具集.md` | 0.5KB | 开发工具推荐列表 |
 
